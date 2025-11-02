@@ -2,7 +2,7 @@
 Scans for ports and service names of open ports.
 
 ### Setup
-1. Run ```git clone https://github.com/MotazAh/Web-Vulnerability-Sim.git```
+1. Run ```git clone https://github.com/MotazAh/NetworkScanner.git```
 2. Run ```cd NetworkScanner```
 3. Edit the hosts.txt to add the hosts you wish to scane
 4. Run ```python3 -m venv .venv``` to create virtual environment

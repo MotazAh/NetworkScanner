@@ -12,3 +12,6 @@ Scans for ports and service names of open ports.
 
 ### Dependencies
 python-nmap==0.71
+
+### Usage Example
+<img width="832" height="439" alt="Screenshot 2025-11-02 182957" src="https://github.com/user-attachments/assets/4160cb7a-422e-4fd1-ba44-6a2c7f87db69" />
